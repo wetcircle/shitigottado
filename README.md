@@ -1,10 +1,10 @@
-## shit i gotta do 
+# shit i gotta do 
 
-# social
+## social
 - make a twitter
 - post more on ig
 
 
 
-# real life
+## real life
 - clean garage
